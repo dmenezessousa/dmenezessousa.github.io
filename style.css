@@ -132,8 +132,8 @@ hr {
   text-decoration: none;
 }
 
-/* @media (min-width: 500px){
-  h1{
-    font-size: 300px;
+@media (min-width: 400px){
+  body{
+    color: black;
   }
-} */
+}
